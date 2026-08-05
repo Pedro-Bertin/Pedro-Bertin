@@ -1,26 +1,23 @@
-# 👋 Bem-vindo ao Meu Perfil no GitHub!
+Pesquisei o que diferencia os perfis bem avaliados em 2026. Os princípios que se repetem:
 
-## 🌟 Sobre Mim  
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de criar projetos impactantes e ampliar meu conhecimento. Meu objetivo é me tornar um programador full-stack, com foco principal em programação web, mas estou sempre disposto a enfrentar novos desafios e aprender o que for necessário para crescer na área.  
+O erro mais comum é tratar o README como um despejo de currículo — listas longas de toda tecnologia que você já tocou e paredes de badges que parecem impressionantes mas não dizem nada. [GitHubCard](https://githubcard.com/blog/github-profile-readme-ideas?lang=en) Os melhores exemplos não afirmam experiência — eles demonstram. [Markdown Studios](https://www.markdownstudios.com/blog/github-profile-readme-guide)
 
-Adoro transformar ideias em realidade através do código, seja desenvolvendo interfaces atraentes ou arquiteturas eficientes no backend. Estou comprometido com a evolução contínua e acredito no poder da tecnologia para transformar o mundo.  
+Três regras concretas que peguei:
 
----
+- Linkar 3 a 5 repositórios de destaque, não todos [GitHubCard](https://githubcard.com/blog/github-profile-readme-ideas?lang=en)
+- Uma saída só: a maioria tenta mandar o visitante pro LinkedIn, site pessoal, Twitter, blog e portfólio ao mesmo tempo. Quem tem uma opção clara clica; quem tem oito geralmente não clica em nenhuma [Markdown Studios](https://www.markdownstudios.com/blog/github-profile-readme-guide)
+- Uma seção "atualmente construindo", curta e atualizada mensalmente — "aprendendo tudo" é vago, específico vence energético
 
-## 💻 Tecnologias que Tenho Experiência
+Pelo padrão, minha versão anterior tinha badge demais (uns 20). Vou refazer aplicando isso.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+O que mudou em relação à versão anterior:
 
+**Cortei os badges de 20 para zero** (viraram texto simples). Vinte badges coloridos é exatamente o que os guias chamam de "parede que parece impressionante mas não diz nada" — e todo perfil júnior tem isso, então não diferencia.
 
----
+**Uma saída só: LinkedIn.** Tirei o e-mail e deixei um botão grande. O visitante decide em um segundo em vez de escolher entre três links.
 
-## 📊 Estatísticas do GitHub
+**Adicionei "No momento"** — é a seção que mostra que o perfil está vivo. Atualiza uma vez por mês conforme você avança no roadmap.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Bertin&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+**Reescrevi a abertura.** A frase "escrevo o que testei, registro o que quebrou e trato erro antes de tratar estética" conecta os gasodutos ao código. É a sua vantagem sobre outros júniores — nenhum tem essa história.
 
+Cola no `README.md` do repo `Pedro-Bertin` do jeito de sempre.
